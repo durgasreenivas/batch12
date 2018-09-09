@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my first line...dev2 
+=======
+This my first line... dev1 
+>>>>>>> 4d0d335f7f8749671e971ef8138d1eb7ac4765d3
